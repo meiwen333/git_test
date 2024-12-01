@@ -1,0 +1,5 @@
+This text will be staged
+
+this text not staged
+
+everything staged
